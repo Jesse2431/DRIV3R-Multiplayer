@@ -1,4 +1,4 @@
-# DRIV3R Multiplayer Mod (0.1)
+# DRIV3R Multiplayer Mod
 
 ## What is this fork?
 This is a fork I made to experiment a bit with the mod and maybe fix up some stuff here and there, don't expect anything big!
